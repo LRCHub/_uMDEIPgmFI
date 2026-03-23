@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アプリコット",
   "base_artist": "いよわ",
-  "createdAt": "2026-02-25T12:07:37.649598Z",
+  "createdAt": "2026-03-23T16:43:50.672338Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "いよわ",
       "has_synced": false,
       "path": "select/pl_01_アプリコット_いよわ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "アプリコット",
+      "artist": "いよわ",
+      "has_synced": false,
+      "path": "select/localdb_01_アプリコット_いよわ.txt",
+      "repo_name": "_uMDEIPgmFI"
     }
   ]
 }
